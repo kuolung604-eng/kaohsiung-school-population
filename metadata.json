@@ -1,0 +1,8 @@
+{
+  "name": "高雄未來15年國中小就學人口動態圖表分析工作台",
+  "description": "根據影片動態圖表編輯器架構，自動分析並視覺化2026至2041年高雄市各行政區國小與國中就學人口數據變化趨勢。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
